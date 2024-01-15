@@ -1,4 +1,4 @@
-     				Product Assignment
+     				Product Assignment using java, gradle and MySql.
       Steps to Run the project
 1)	Download the project from git url- https://github.com/Sandeep8294/sspringboot-product-api.git
 2)	Install Mysql  by following the link- https://dev.mysql.com/doc/refman/8.0/en/windows-installation.html
